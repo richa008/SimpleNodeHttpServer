@@ -1,0 +1,12 @@
+{
+  "name": "node-http-server",
+  "version": "1.0.0",
+  "description": "Simple node http server example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Richa",
+  "license": "ISC"
+}
